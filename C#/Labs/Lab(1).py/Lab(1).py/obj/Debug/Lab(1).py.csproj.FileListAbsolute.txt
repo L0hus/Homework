@@ -1,0 +1,10 @@
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\bin\Debug\Lab(1).py.exe.config
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\bin\Debug\Lab(1).py.exe
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\bin\Debug\Lab(1).py.pdb
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\obj\Debug\Lab(1).py.csproj.AssemblyReference.cache
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\obj\Debug\Lab_1_.py.Form1.resources
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\obj\Debug\Lab_1_.py.Properties.Resources.resources
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\obj\Debug\Lab(1).py.csproj.GenerateResource.cache
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\obj\Debug\Lab(1).py.csproj.CoreCompileInputs.cache
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\obj\Debug\Lab(1).py.exe
+C:\Users\vadro\OneDrive\Desktop\Labs\Lab(1).py\Lab(1).py\obj\Debug\Lab(1).py.pdb
