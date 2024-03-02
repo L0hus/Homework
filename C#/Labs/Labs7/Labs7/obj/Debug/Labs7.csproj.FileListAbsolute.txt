@@ -1,0 +1,10 @@
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\bin\Debug\Labs7.exe.config
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\bin\Debug\Labs7.exe
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\bin\Debug\Labs7.pdb
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\obj\Debug\Labs7.csproj.AssemblyReference.cache
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\obj\Debug\Labs7.Form1.resources
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\obj\Debug\Labs7.Properties.Resources.resources
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\obj\Debug\Labs7.csproj.GenerateResource.cache
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\obj\Debug\Labs7.csproj.CoreCompileInputs.cache
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\obj\Debug\Labs7.exe
+C:\Users\Lohus\Desktop\Labs\Labs7\Labs7\obj\Debug\Labs7.pdb
